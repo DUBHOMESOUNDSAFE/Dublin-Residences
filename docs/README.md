@@ -1,4 +1,5 @@
-# Residences One: Understanding Sound, Noise & Vibration – Impacts & Insights
+# Residences One: 
+## Understanding Sound, Noise & Vibration – Impacts & Insights
 
 > Explore the effects of sound, noise, and vibration on individuals and communities, with insights on mitigation and impact awareness.
 
