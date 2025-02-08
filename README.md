@@ -33,10 +33,14 @@
 ### Audio Manipulation - Reversed Speech - Mental Processes
 ### Audio Manipulation - Reversed Speech - Negative Impact
 ### Audio Manipulation - Tactics & Techniques - 2
-### Auditory Manipulation 
-### Auditory Manipulation & Abusive Dynamics 
-### Auditory Manipulation & Gaslighting
-### Auditory Manipulation Tactics
+
+### Auditory Manipulation
+#### Auditory Manipulation 
+#### Auditory Manipulation & Abusive Dynamics 
+#### Auditory Manipulation & Gaslighting
+#### Auditory Manipulation Tactics
+
+### Conversion Therapy
 ### Conversion Therapy - Remote Practice & Commentary Tactic
 ### Conversion Therapy - Remote Therapy & Commentary 
 ### Conversion Therapy - Sound, Noise, Vibration & Electro-Magnetism
