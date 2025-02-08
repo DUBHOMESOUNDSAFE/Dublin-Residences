@@ -1,4 +1,4 @@
-noIn studies investigating the effects of electromagnetic fields (EMF) on neurotransmitters, several specific frequencies have been commonly examined. These frequencies fall within the categories of radiofrequency electromagnetic fields (RF-EMF) and extremely low-frequency electromagnetic fields (ELF-EMF). Here are the most studied frequencies:
+In studies investigating the effects of electromagnetic fields (EMF) on neurotransmitters, several specific frequencies have been commonly examined. These frequencies fall within the categories of radiofrequency electromagnetic fields (RF-EMF) and extremely low-frequency electromagnetic fields (ELF-EMF). Here are the most studied frequencies:
 
 1. **Radiofrequency Electromagnetic Fields (RF-EMF)**:
    - **1800 MHz**: This frequency has been studied for its effects on dopamine levels in the hippocampus of adult rats, showing a decrease in dopamine after exposure [[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415840/).
@@ -11,21 +11,25 @@ noIn studies investigating the effects of electromagnetic fields (EMF) on neurot
 
 The impact of these frequencies on neurotransmitter metabolism and transport is significant, as alterations in neurotransmitter levels can influence cognitive and emotional behaviors, potentially linking EMF exposure to neuropsychiatric conditions.
 
-Here is a table summarizing the specific electromagnetic field (EMF) frequencies that have been most studied in relation to neurotransmitters:
+Here is a table summarizing the specific electromagnetic field (EMF) frequencies that have been most studied in relation to neurotransmitters, along with their classifications as RF EMF or ELF EMF:
 
-| Frequency (MHz) | Neurotransmitter Affected | Study Findings |
-|------------------|--------------------------|----------------|
-| 1800             | Dopamine                 | Decrease in dopamine levels in the hippocampus of adult rats after exposure [[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415840/). |
-| 2450             | Serotonin                | Increase in 5-HIAA (serotonin metabolite) in the cerebral cortex [[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415840/). |
-| 900              | Glutamate                | Alterations in glutamate levels observed, indicating potential impacts on neurotransmitter balance [[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415840/). |
-| 2856             | NMDA Receptors           | Changes in NMDA receptor subtypes in the hippocampus, affecting neurotransmission [[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415840/). |
-| 30               | Various Amino Acids      | Decrease in glutamate and aspartic acid levels after exposure [[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415840/). |
-| 100              | GABA                     | Potential alterations in GABA levels, though specific findings were not detailed [[1]](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415840/). |
+| Frequency (MHz) | EMF Type  | Neurotransmitter Affected | Study Findings |
+|------------------|-----------|--------------------------|----------------|
+| 1800             | RF EMF    | Dopamine                 | Decrease in dopamine levels in the hippocampus of adult rats after exposure [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/). |
+| 2450             | RF EMF    | Serotonin                | Increase in 5-HIAA (serotonin metabolite) in the cerebral cortex [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/). |
+| 900              | RF EMF    | Glutamate                | Alterations in glutamate levels observed, indicating potential impacts on neurotransmitter balance [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/). |
+| 2856             | RF EMF    | NMDA Receptors           | Changes in NMDA receptor subtypes in the hippocampus, affecting neurotransmission [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/). |
+| 30               | ELF EMF   | Various Amino Acids      | Decrease in glutamate and aspartic acid levels after exposure [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/). |
+| 100              | ELF EMF   | GABA                     | Potential alterations in GABA levels, though specific findings were not detailed [[3]](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/). |
+
+### Notation
+- **RF EMF (Radiofrequency Electromagnetic Fields)**: Frequencies typically range from 3 kHz to 300 GHz, with specific studies focusing on frequencies like 900 MHz, 1800 MHz, and 2450 MHz.
+- **ELF EMF (Extremely Low-Frequency Electromagnetic Fields)**: Frequencies range from 0 to 100 kHz, with specific studies examining lower frequencies such as 30 Hz and 100 Hz.
 
 These frequencies have been linked to various effects on neurotransmitter metabolism and transport, which can influence cognitive and emotional behaviors.
 
 ---
 Learn more:
-1. [Effects of Radiofrequency Electromagnetic Radiation on Neurotransmitters in the Brain - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8415840/)
-2. [Unveiling the biological effects of radio-frequency and extremely-low frequency electromagnetic fields on the central nervous system performance - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC11298025/)
-3. [Long-term exposure to 835 MHz RF-EMF induces hyperactivity, autophagy and demyelination in the cortical neurons of mice | Scientific Reports](https://www.nature.com/articles/srep41129)
+1. [Electromagnetic Fields and Cancer - NCI](https://www.cancer.gov/about-cancer/causes-prevention/risk/radiation/electromagnetic-fields-fact-sheet)
+2. [Extremely low frequency electric and magnetic fields | ARPANSA](https://www.arpansa.gov.au/understanding-radiation/what-is-radiation/non-ionising-radiation/low-frequency-electric-magnetic-fields)
+3. [Possible Effects of Radiofrequency Electromagnetic Field Exposure on Central Nerve System - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC6513191/)
