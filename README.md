@@ -44,13 +44,13 @@
 ### Hallucations -  Inducing or Mimicking - Real-life Examples 
 ### Hallucations - Inducing or Mimicking - Psychotic or Schizophrenic Episode
 ### Hallucinations - Inducing & Mimicking - Exploitation
-Phsycial & Mental Health - Amplitude & Frequency Specifics
-Psychical & Mental - Sound & Psychosis, Shizophrenic Spectrum Disorders & Hallucations 
-Psychological Entrainment - Abusive Dynamics & Impersonations 
-Psychological Entrainment - Audio Tactics & Mimicking Hallucations 
-Psychological Entrainment & Audio - Psychosis & Schizophrenia 
-Psychological Entrainment & Coercive Control  (Audio)
-Subwoofer Range Specifics - Floorboards & Feet Sensitity
-Subwoofer Range Specifics - Triggering Paranoia
-Subwoofer Specifics - Occular & Optical 
-Summary of Effects on Psychosis, Shizophrenic Spectrum Disorders & Hallucations 
+### Phsycial & Mental Health - Amplitude & Frequency Specifics
+### Psychical & Mental - Sound & Psychosis, Shizophrenic Spectrum Disorders & Hallucations 
+### Psychological Entrainment - Abusive Dynamics & Impersonations 
+### Psychological Entrainment - Audio Tactics & Mimicking Hallucations 
+### Psychological Entrainment & Audio - Psychosis & Schizophrenia 
+### Psychological Entrainment & Coercive Control  (Audio)
+### Subwoofer Range Specifics - Floorboards & Feet Sensitity
+### Subwoofer Range Specifics - Triggering Paranoia
+### Subwoofer Specifics - Occular & Optical 
+### Summary of Effects on Psychosis, Shizophrenic Spectrum Disorders & Hallucations 
