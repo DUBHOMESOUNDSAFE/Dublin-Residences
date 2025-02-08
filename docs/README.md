@@ -24,6 +24,5 @@
 ### Industry & Transportation
 - **Transportation & Industry** – Noise and vibration from traffic, construction, and machinery.  
 
-
-
-
+### Notes & Research
+- **Notes & Research**
