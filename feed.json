@@ -10,10 +10,22 @@
     },
     "items": [
         {
-            "id": "https://DUBHOMESOUNDSAFE.github.io/Dublin-Residences/residences-one.html",
-            "url": "https://DUBHOMESOUNDSAFE.github.io/Dublin-Residences/residences-one.html",
+            "id": "https://DUBHOMESOUNDSAFE.github.io/Dublin-Residences/aaaa/",
+            "url": "https://DUBHOMESOUNDSAFE.github.io/Dublin-Residences/aaaa/",
+            "title": "AAAA",
+            "author": {
+                "name": "Declan Joseph O&#x27;Sullivan"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-09T11:55:46+00:00",
+            "date_modified": "2025-02-09T11:55:46+00:00"
+        },
+        {
+            "id": "https://DUBHOMESOUNDSAFE.github.io/Dublin-Residences/residences-one/",
+            "url": "https://DUBHOMESOUNDSAFE.github.io/Dublin-Residences/residences-one/",
             "title": "Residences One",
-            "summary": "Understanding Sound, Noise &amp; Vibration – Impacts &amp; Insights Explore the effects of sound, noise, and vibration on individuals and communities, with insights on mitigation and impact awareness. Sources &amp; Causes Sources &amp; Causes – Natural and human-made origins of sound, noise, and vibration. Impact&hellip;",
+            "summary": "Understanding Sound, Noise &amp; Vibration – Impacts &amp; Insights Explore the effects&hellip;",
             "content_html": "<h2 id=\"understanding-sound-noise--vibration--impacts--insights\">Understanding Sound, Noise &amp; Vibration – Impacts &amp; Insights</h2>\n<blockquote>\n<p>Explore the effects of sound, noise, and vibration on individuals and communities, with insights on mitigation and impact awareness.</p></blockquote>\n<h3 id=\"sources--causes\">Sources &amp; Causes</h3>\n<ul>\n<li><strong>Sources &amp; Causes</strong> – Natural and human-made origins of sound, noise, and vibration.</li>\n</ul>\n<h3 id=\"impact--effects\">Impact &amp; Effects</h3>\n<ul>\n<li><strong>Health &amp; Well-being Impacts</strong> – Effects on physical and mental health.  </li>\n<li><strong>Environmental Impact</strong> – Influence on wildlife, ecosystems, and urban spaces.</li>\n<li><strong>Building &amp; Structural Effects</strong> – How noise and vibration affect buildings and infrastructure.  </li>\n<li><strong>Community &amp; Social Impact</strong> – How noise and vibration influence quality of life and communities.</li>\n</ul>\n<h3 id=\"measurement--standards\">Measurement &amp; Standards</h3>\n<ul>\n<li><strong>Measurement &amp; Monitoring</strong> – Tools and techniques for assessing sound, noise, and vibration levels.  </li>\n<li><strong>Regulations &amp; Standards</strong> – Legal limits and industry guidelines.</li>\n</ul>\n<h3 id=\"mitigation--control\">Mitigation &amp; Control</h3>\n<ul>\n<li><strong>Mitigation &amp; Control</strong> – Strategies to reduce noise and vibration.  </li>\n<li><strong>Technology &amp; Innovation</strong> – Advancements in noise reduction and vibration control.</li>\n</ul>\n<h3 id=\"industry--transportation\">Industry &amp; Transportation</h3>\n<ul>\n<li><strong>Transportation &amp; Industry</strong> – Noise and vibration from traffic, construction, and machinery.</li>\n</ul>\n",
             "author": {
                 "name": "Declan Joseph O&#x27;Sullivan"
