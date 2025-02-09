@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://DUBHOMESOUNDSAFE.github.io/Dublin-Residences/sitemap.xml
