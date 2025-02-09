@@ -28,11 +28,11 @@
 ### Audio Manipulation - Abusive Dynamics - LGBT Voice Relaying
 ### Audio Manipulation - Abusive Dynamics - Voice Realying
 ### Audio Manipulation - Abusive Tactics & Techniques 
+### Audio Manipulation - Abusive Tactics & Techniques - 2
 ### Audio Manipulation - Real World Scenarios 
 ### Audio Manipulation - Reversed Speech - Abusive Dynamics
 ### Audio Manipulation - Reversed Speech - Mental Processes
 ### Audio Manipulation - Reversed Speech - Negative Impact
-### Audio Manipulation - Tactics & Techniques - 2
 
 ### Auditory Manipulation
 #### Auditory Manipulation 
@@ -40,20 +40,33 @@
 #### Auditory Manipulation & Gaslighting
 #### Auditory Manipulation Tactics
 
+###Auditory Manipulation & Reversed Speech
+
+
+## Conversion Therapy
 ### Conversion Therapy
 ### Conversion Therapy - Remote Practice & Commentary Tactic
 ### Conversion Therapy - Remote Therapy & Commentary 
 ### Conversion Therapy - Sound, Noise, Vibration & Electro-Magnetism
+
+
 ### Electromagnetism EMF - Psychosis & Schizophrenia
+
+## Hallucations - Induced and/or Mimicked
 ### Hallucations -  Inducing or Mimicking - Real-life Examples 
 ### Hallucations - Inducing or Mimicking - Psychotic or Schizophrenic Episode
 ### Hallucinations - Inducing & Mimicking - Exploitation
 ### Phsycial & Mental Health - Amplitude & Frequency Specifics
 ### Psychical & Mental - Sound & Psychosis, Shizophrenic Spectrum Disorders & Hallucations 
+
+## Psychological Entrainment 
 ### Psychological Entrainment - Abusive Dynamics & Impersonations 
 ### Psychological Entrainment - Audio Tactics & Mimicking Hallucations 
 ### Psychological Entrainment & Audio - Psychosis & Schizophrenia 
 ### Psychological Entrainment & Coercive Control  (Audio)
+
+
+## Subwoofer Range Specifics 
 ### Subwoofer Range Specifics - Floorboards & Feet Sensitity
 ### Subwoofer Range Specifics - Triggering Paranoia
 ### Subwoofer Specifics - Occular & Optical 
